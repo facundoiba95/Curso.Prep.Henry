@@ -1,0 +1,37 @@
+variables:
+          En programacion, las variables se pueden comparar con los ingredientes de una receta de cocina.
+Supongamos que haremos una pizza, necesitaremos ingredientes tales como harina, jamon, tomate, queso. 
+Para que la pizza este bien hecha tendremos que saber que medida agregar de cada ingrediente y que tipo
+de ingredientes usaremos.
+ Si traemos el ejemplo de la pizza, podemos tomar las variables como los ingredientes para que un sistema 
+funcione de manera optima. Las variables contienen numeros, letras, caracteres y otros tipos de datos
+que al manipularlos y usarlos de manera controlada podemos hacer que nuestra receta sea exitosa.
+
+strings:
+        Un string es un tipo de variable que representa una cadena de caracteres y por lo general van entre
+comillas "".
+Para entender mejor nos situamos en este ejemplo, tenemos un celular en el cual solo se pueden ingresar numeros 
+y tambien podemos leer solo numeros, seria complicado entender que esta sucediendo si no podemos leer texto
+que nos diga que hacer. Es por esto que los strings nos sulucionan este problema al representarnos cadenas 
+de texto o simplemente palabras que nos sirvan de guia.
+
+funcion, parametros y return:
+                             Una funcion es una porcion de codigo que devuelve un valor. Puede o no contener 
+variables o "Parametros" que seran ingresados por el usuario para devolver un valor mediante return.
+Return es la unica manera que tiene la funcion de devolver los datos que se encuentran en su interior.
+
+declaraciones if y valores booleanos: 
+                               una declaracion en programacion, es el momento en el cual una variable o un nombre se hace 
+visible para el compilador.
+                 Las estructuras condicionales de tipo IF son codigos que permiten evaluar un elemento mediante el uso de 
+operadores de comparacion y devuelve un valor booleano(true o false). Daremos un ejemplo para comprender mejor, supongamos
+que tenemos $200 y queremos comprar una Coca Cola, si al momento de comprarla nuestros $200 son suficientes para comprarla, 
+la llevamos, sino podemos comprar una gaseosa mas barata o no comprar nada. Con este ejemplo podemos decir que nuestro elemento
+a comparar o variable fue la coca cola, nuestra condicion era si la cocacola <= $200 (menor o igual que $200) la llevamos(true), 
+sino compramos otra cosa o nada mas(false).
+
+
+
+
+
+ 
