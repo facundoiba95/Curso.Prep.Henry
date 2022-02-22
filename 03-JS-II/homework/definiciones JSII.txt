@@ -1,0 +1,36 @@
+for
+&& || !
+
+
+for: 
+    en programacion la palabra for, se refiere a un ciclo repetitivo de instrucciones. Para poder utilizar
+este ciclo, necesitamos saber: la variable en donde iniciara el ciclo, la condicion que se tiene que cumplir 
+para que el ciclo finalice, y por ultimo la variacion de la variable inicial, puede variar de manera
+incremental o decreciente(++o--). 
+   Una vez que tenemos estos 3 elementos, escribimos el codigo entre llaves {} que seran las instrucciones
+que se repetiran las veces que se cumpla la condicion preestablecida.
+    la sintaxis de este statement es: 
+                                     for(var i=0; i<N; i++){
+                                        //codigo;
+                                     } 
+
+Operadores booleanos &&, ||, !:
+
+       El operador && o "Y" en español, se utiliza para concatenar valores que necesitan ser comparados
+de manera conjunta para devolver un valor true o false;  Por ejemplo: nos referimos a un celular Samsung,
+64 gb, color negro. 
+      Para saber si es nuestro telefono preguntaremos: marca==samsung && memoria==64gb && color==negro;
+ En nuestros caso, para que sea nuestro celular, todas las comparaciones tienen que ser true. Pudimos 
+concatenar nuestra pregunta gracias al operador &&.
+
+       El operador || o "O" en español, sirve para comparar dos o mas valores y saber cual de ellos cumple 
+o no una condicion y asi elejir uno de ellos. Ejemplo: puedo elegir entre tres colores que me gusten:
+                      color==rojo || color==verde || color==azul;
+ Solo puedo elegir un color de ellos, es por esto que este operador permite realizar esta comparacion.
+
+       El operador ! o "Not" en ingles, es un operador de negacion. Como su palabra lo dice, niega si se cumple
+o no una condicion, o modifica un valor obteniendo el resultado contrario. Ejemplo:
+Para decir que no estoy cansado, puedo decir !estoy cansado, de esta manera cambiamos el significado de nuestra
+expresion.
+
+  
